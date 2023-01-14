@@ -1,0 +1,63 @@
+name: Bug Report
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # THIS TRACKER IS NOT FOR REPORTING EXPLOITS.
+
+        Any bug found that has any potential to be exploited by other players, e.g. duplication bugs, spam bugs, claim bypass 
+        bugs, should be **silently** and **responsibly** disclosed **to a member of staff** and NOT shown/told to ANY other 
+        players while they are unpatched. Irresponsible disclosure of exploits may lead to an immediate mute or ban.
+
+        For more information on the rules regarding exploits, see [Rule 3](https://docs.sc3.io/rules.html#r3).
+
+        Please see the [README](README.md) for more information on what to report to this tracker.
+  - type: textarea
+    id: describe-bug
+    attributes:
+      label: Describe the bug
+      description: | 
+        A clear and concise description of what the bug is. You can paste screenshots if it helps explain the bug.
+      placeholder: Tell us what happened!
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: To reproduce
+      description: "Steps to reproduce the behavior:"
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: | 
+        If applicable, please include any relevant log output. You can also upload your logs to `mclo.gs` automatically 
+        by clicking "Upload" in Prism or MultiMC - please include the link to the log.
+      render: sh
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Please confirm
+      description: | 
+        By submitting this issue, you confirm that this bug is not an exploit, and that you understand this issue 
+        tracker is not for exploits. For more information, see [Rule 3](https://docs.sc3.io/rules.html#r3).
+      options:
+        - label: This is not an exploit
+          required: true
