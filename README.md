@@ -25,7 +25,8 @@ This tracker is **NOT** for:
 - Connection issues (e.g. lag, disconnects)
 - Issues with other players (e.g. griefing, harassment)
 - Issues regarding claims or spawn land
-- Issues with open source mods (see [Reporting issues with other mods](#reporting-issues-with-other-mods))
+- Issues with open source mods, external services, or other repositories (see 
+  [Reporting issues with other mods](#reporting-issues-with-other-mods))
 
 For these issues, please contact a member of staff in-game or on [Discord](https://discord.sc3.io). If you are not sure
 whether your issue is appropriate for this tracker, please ask in in-game chat or Discord. You will usually be directed
@@ -46,6 +47,7 @@ For the following mods and services, please go to their own issue trackers to ma
 - [sc-peripherals](https://github.com/SwitchCraftCC/sc-peripherals) ([Issue tracker](https://github.com/SwitchCraftCC/sc-peripherals/issues))
 - [sc-library](https://github.com/SwitchCraftCC/sc-library) ([Issue tracker](https://github.com/SwitchCraftCC/sc-library/issues))
 - [sc-text](https://github.com/SwitchCraftCC/sc-text) ([Issue tracker](https://github.com/SwitchCraftCC/sc-text/issues))
+- [sc3-rom](https://github.com/SwitchCraftCC/sc3-rom) ([Issue tracker](https://github.com/SwitchCraftCC/sc3-rom/issues))
 - [Krist](https://github.com/tmpim/Krist) ([Issue tracker](https://github.com/tmpim/Krist/issues))
 - [KristWeb](https://github.com/tmpim/KristWeb2) ([Issue tracker](https://github.com/tmpim/KristWeb2/issues))
 
