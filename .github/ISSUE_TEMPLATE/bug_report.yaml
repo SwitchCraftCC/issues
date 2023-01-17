@@ -47,7 +47,7 @@ body:
       label: Relevant log output
       description: | 
         If applicable, please include any relevant log output. You can also upload your logs to `mclo.gs` automatically 
-        by clicking "Upload" in Prism or MultiMC - please include the link to the log.
+        by clicking "Upload" in Prism Launcher - please include the link to the log.
       render: sh
     validations:
       required: false
