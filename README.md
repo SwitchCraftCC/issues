@@ -39,7 +39,7 @@ to this tracker.
 
 ## Reporting issues with other mods
 
-For the following mods and services, please go to their own issue trackers to make a bug report:
+For the following mods and services, please go to their own issue trackers to make a bug report or pull request:
 
 - [CC: Tweaked](https://github.com/cc-tweaked/cc-tweaked) ([Issue tracker](https://github.com/cc-tweaked/cc-tweaked/issues))
 - [Plethora](https://github.com/SwitchCraftCC/Plethora-Fabric) ([Issue tracker](https://github.com/SwitchCraftCC/Plethora-Fabric/issues))
@@ -47,6 +47,7 @@ For the following mods and services, please go to their own issue trackers to ma
 - [sc-peripherals](https://github.com/SwitchCraftCC/sc-peripherals) ([Issue tracker](https://github.com/SwitchCraftCC/sc-peripherals/issues))
 - [sc-library](https://github.com/SwitchCraftCC/sc-library) ([Issue tracker](https://github.com/SwitchCraftCC/sc-library/issues))
 - [sc-text](https://github.com/SwitchCraftCC/sc-text) ([Issue tracker](https://github.com/SwitchCraftCC/sc-text/issues))
+- [sc-docs](https://github.com/SwitchCraftCC/sc-docs) ([Issue tracker](https://github.com/SwitchCraftCC/sc-docs/issues))
 - [sc3-rom](https://github.com/SwitchCraftCC/sc3-rom) ([Issue tracker](https://github.com/SwitchCraftCC/sc3-rom/issues))
 - [Krist](https://github.com/tmpim/Krist) ([Issue tracker](https://github.com/tmpim/Krist/issues))
 - [KristWeb](https://github.com/tmpim/KristWeb2) ([Issue tracker](https://github.com/tmpim/KristWeb2/issues))
@@ -54,6 +55,6 @@ For the following mods and services, please go to their own issue trackers to ma
 ## More information
 
 - [SwitchCraft 3 website](https://sc3.io)
-- [SwitchCraft Documentation](https://docs.sc3.io)
+- [SwitchCraft Documentation](https://docs.sc3.io) ([Repository](https://github.com/SwitchCraftCC/sc-docs))
 - [SwitchCraft Discord](https://discord.sc3.io)
 - [Minecraft Computer Mods Discord](https://discord.computercraft.cc)
