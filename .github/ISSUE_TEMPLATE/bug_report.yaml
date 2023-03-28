@@ -10,9 +10,13 @@ body:
         bugs, should be **silently** and **responsibly** disclosed **to a member of staff** and NOT shown/told to ANY other 
         players while they are unpatched. Irresponsible disclosure of exploits may lead to an immediate mute or ban.
 
+        For information on how to report exploits responsibly, see 
+        [Reporting exploits](https://github.com/SwitchCraftCC/issues#reporting-exploits).
+        
         For more information on the rules regarding exploits, see [Rule 3](https://docs.sc3.io/rules.html#r3).
 
-        Please see the [README](https://github.com/SwitchCraftCC/issues/blob/master/README.md) for more information on what to report to this tracker.
+        Please see the [README](https://github.com/SwitchCraftCC/issues/blob/master/README.md) for more information on what 
+        to report to this tracker.
   - type: textarea
     id: describe-bug
     attributes:
